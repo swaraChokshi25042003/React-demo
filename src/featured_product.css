@@ -1,0 +1,98 @@
+
+.featured_main_container{
+    background-color: #143324;
+   
+    height: 200px;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+.image{
+    position: relative;
+    bottom: 20px;
+}
+.image_container{
+    
+    text-align: center;
+			background-image:
+url("./images/black_composter_single.webp");
+			background-position: center;
+			background-repeat: no-repeat;
+			background-attachment: fixed;
+            height: 20vh;
+           
+}
+
+.parallax {
+        /* The image used */
+        background-image: url("./images/black_composter_single.webp");
+      
+        /* Set a specific height */
+        min-height: 27vh; 
+      
+        /* Create the parallax scrolling effect */
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+ 
+}
+.parallax_container{
+    height:27px;
+    background-color:lightskyblue;
+    font-size:10px;
+}
+
+
+
+.img1{
+    height: 20px;
+    width: 53px;
+}
+.img2{
+    height: auto;
+    width: 25px;
+}
+.composter_size{
+    height: auto;
+    width: 177px;
+}
+.img_container{
+    display: flex;
+}
+.fea_container1{
+    color: white;
+    font-size: 10px;
+}
+.get_yours{
+    font-size: 8px;
+    text-decoration: underline;
+}
+#shop_product{
+    border: 1px solid white;
+  background-color: #143324;
+  width: 100px;
+  color: white;
+  height: auto;
+  size: 7px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+ border-top-left-radius: 12px;
+ border-bottom-right-radius: 12px;
+  font-size: 7px;
+}
+#shop_product:hover{
+    border-top-left-radius: 0;
+    border-top-right-radius: 12px;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 0;
+}
+.fea_container_text1{
+    font-size: 7px;
+    color: white;
+    font-weight: bold;
+}
+.fea_container_text2{
+    font-size: 8px;
+    color: white;
+}

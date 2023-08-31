@@ -1,0 +1,52 @@
+.about_us_main_container{
+  width: 450px;
+  height: auto;
+  margin: auto;
+  padding-bottom: 10px;
+}
+.item_container{
+    display: flex;
+   
+}
+.aboutus_container{
+    padding: 5px;
+    padding-right: 27px;
+}
+.aboutus_img_size{
+    height: auto;
+    width: 20px;
+}
+.aboutus_text1{
+    font-size: 5px;
+    font-weight: bold;
+}
+.aboutus_text2{
+    font-size: 5px;
+}
+.aboutus_title{
+    font-size: 5px;
+    color: rgb(41, 102,71 );
+}
+.aboutus_h3{
+    font-size: 11px;
+}
+#about_us{
+    background-color: rgb(41, 102,71 );
+    border: none;
+    color: white;
+    font-size: 6px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-bottom-left-radius: 12px;
+    border-top-right-radius: 12px;
+    margin-top: 12px;
+}
+#about_us:hover{
+    background-color: rgb(41, 102,71,0.8 );
+    border-top-right-radius:0px;
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 12px;
+}

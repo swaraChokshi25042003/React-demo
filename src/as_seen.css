@@ -1,0 +1,12 @@
+.as_seen_main_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #296647;
+    font-size: smaller;
+}
+.ass_seen_img{
+    height: auto;
+    width: 62px;
+    padding-left: 10px;
+}

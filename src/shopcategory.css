@@ -1,0 +1,40 @@
+.shop_category_main_container{
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: auto;
+    background: linear-gradient(to bottom, rgb(241, 239, 231) 50%, transparent 50%);
+
+
+}
+
+.shop_category_images{
+    height: auto;
+    width: 100px;
+    padding: 7px;
+}
+.category_heading{
+    text-align: center;
+    font-size: smaller;
+}
+.category_card_holder{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.category_p{
+    color: black;
+    text-align: center;
+    font-size: 6px;
+    margin: unset;
+    font-weight: bold;
+}
+.shop_now{
+    color: rgb(41, 102,71 );
+    text-decoration: underline;
+    font-size: 7px;
+    margin: unset;
+    padding-top: 5px;
+    padding-bottom: 20px;
+
+}

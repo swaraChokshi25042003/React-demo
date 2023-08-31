@@ -1,0 +1,51 @@
+.blog_main_container{
+    display: flex;
+}
+.from_blog{
+    padding-left: 10%;
+    padding-right: 5px;
+}
+.title{
+    font-size: 7px;
+    color: #646665;
+
+}
+.blog_h3{
+    font-size: 8px;
+}
+.installing_water_butts{
+    padding-right: 10px;
+}
+.blog_img_size{
+    height: auto;
+    width: 150px;
+}
+.container{
+    font-size: 7px;
+    font-weight: bold;
+}
+.minute_read{
+    font-size: 7px;
+    color: #646665;
+    padding-bottom: 8px;
+}
+#view_blog{
+    background-color: rgb(41, 102,71 );
+    border: none;
+    color: white;
+    font-size: 6px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-bottom-left-radius: 12px;
+    border-top-right-radius: 12px;
+    margin-top: 12px;
+}
+#view_blog:hover{
+    background-color: rgb(41, 102,71,0.8 );
+    border-top-right-radius:0px;
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 12px;
+}
