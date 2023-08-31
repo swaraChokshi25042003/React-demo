@@ -13,7 +13,7 @@ function Featured_product() {
                     <img src={features_img2} className='img2'></img>
                 </div>
                 <p className='fea_container1'>Voted the best 'BUDGET BUY'<br></br> in Gardeners' World<br></br> Magazine</p>
-                <a href='' className='get_yours'>GET YOURS NOW
+                <a href='' className='get_yours'>GET YOURSS NOW
                 </a>
             </div>
             
