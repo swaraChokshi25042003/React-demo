@@ -1,0 +1,26 @@
+.planting_main_container{
+    height: 150px;
+    position: relative;
+}
+.parallax_image{
+    height: 200px;
+    /* width: 700px; */
+        background-image: url('./images/Tree_Planting.webp');
+        background-size: cover; /* Use 'contain' instead of 'cover' */
+        background-position: center;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+
+}
+.text_container{
+    position: relative;
+    bottom: 169px;
+    text-align: center;
+    color: white;
+
+}
+.planting_text1{
+    font-size: 6px;
+    padding-left: 108px;
+    padding-right: 108px;
+}

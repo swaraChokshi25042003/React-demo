@@ -32,3 +32,9 @@
     text-decoration: underline;
     padding-bottom: 20px;
 }
+@media (max-width: 390px){
+    .promo_images {
+        width: 129px;
+        /* flex: 4 1; */
+    }
+}    

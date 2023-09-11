@@ -16,6 +16,7 @@ import As_seen from './As_seen';
 import Blog from './Blog';
 import About_us from './About_us';
 import Featured_product from './Featured_product';
+import Tree_planting from './Tree_planting';
 
 
 
@@ -33,6 +34,7 @@ root.render(
   <About_us/>
   <Promo/>
   <As_seen/>
+  <Tree_planting/>
   <Shop_category/>
   <Trust_bar/>
   <Info_Footer/>

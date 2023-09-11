@@ -1,8 +1,9 @@
 .blog_main_container{
     display: flex;
+    justify-content: center;
 }
 .from_blog{
-    padding-left: 10%;
+   
     padding-right: 5px;
 }
 .title{
@@ -48,4 +49,11 @@
     border-top-left-radius: 12px;
     border-bottom-left-radius: 0px;
     border-bottom-right-radius: 12px;
+}
+@media (max-width: 390px){
+    .from_blog {
+        padding-left: 2%;
+        padding-right: 0px; 
+    }
+    
 }

@@ -50,3 +50,8 @@
     border-bottom-left-radius: 0px;
     border-bottom-right-radius: 12px;
 }
+@media (max-width: 390px){
+    .about_us_main_container {
+    width: 401px;
+    }
+}
